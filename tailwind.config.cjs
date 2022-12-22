@@ -22,6 +22,7 @@ module.exports = {
         current: 'currentColor',
         'white': '#FFFFFF',
         'black': '#000000',
+        'orange': '#CC8921',
       },
     },
   },
