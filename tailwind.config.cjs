@@ -23,6 +23,7 @@ module.exports = {
         'white': '#FFFFFF',
         'black': '#000000',
         'orange': '#CC8921',
+        'blue': '#2C69BE',
       },
     },
   },
