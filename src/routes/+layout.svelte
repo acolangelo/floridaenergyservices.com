@@ -19,5 +19,5 @@
 		<li class="inline-block mx-2"><a href="https://www.linkedin.com/company/florida-energy-services-inc./" class="block no-underline p-2 opacity-80 hover:opacity-100 text-blue"><img src="/img/linkedin.svg" alt="LinkedIn" class="inline w-4 h-4 fill-blue align-top"> LinkedIn</a></li>
 	</ul>
 
-	<p>&copy; 2022 Florida Energy Services,&nbsp;Inc.</p>
+	<p>&copy; 2023 Florida Energy Services,&nbsp;Inc.</p>
 </footer>
