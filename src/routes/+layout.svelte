@@ -3,11 +3,11 @@
 	import "../app.css";
 </script>
 
-<header class="relative my-8 lg:mt-16 py-10 text-center">
-	<h1>Florida Energy Services,&nbsp;Inc.</h1>
-	<p class="absolute top-0 left-0 w-full text-center tracking-widest uppercase text-gray text-xs font-bold">Est. 1982</p>
-	<p class="absolute bottom-0 left-0 w-full text-center tracking-widest uppercase text-gray text-xs font-bold">Estero, Florida</p>
+<header class="relative max-w-xl mx-auto my-8 lg:mt-16 px-4">
+	<img src="/img/fes.svg" alt="Florida Energy Services" class="w-[67%] min-w-[100px] mb-4" >
+	<h1 class="text-lg">Florida Energy Services</h1>
 </header>
+
 
 <main class="max-w-xl mx-auto p-4">
 	<slot />
