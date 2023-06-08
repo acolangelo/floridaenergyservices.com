@@ -1,0 +1,1 @@
+import{r as t}from"./index-4f2eadac.js";const a=t([{url:"/services",title:"Services"},{url:"/projects",title:"Projects"},{url:"/safety",title:"Safety"},{url:"/about",title:"About"}],function(r){return function(){}});export{a as n};

@@ -41,26 +41,67 @@ font-style: italic;
 	
 	h1 {
 		@apply text-xl;
+		@apply md:text-2xl;
+		@apply lg:text-3xl;
 	}
 	
 	h2 {
 		@apply text-lg;
+		@apply md:text-xl;
+		@apply lg:text-2xl;
 	}
 	
 	h3 {
 		@apply text-md;
-		@apply font-medium;
+		@apply md:text-lg;
+		@apply lg:text-xl;
 	}
 	
 	h4 {
+		@apply text-base;
+		@apply md:text-md;
+		@apply lg:text-lg;
+	}
+	
+	h5 {
 		@apply tracking-wide;
+		@apply lg:text-md;
 	}
 	
 	p {
 		@apply my-4;
 	}
 	
+	p:last-child {
+		@apply mb-0;
+	}
+	
 	a {
 		@apply underline;
+	}
+	
+	a:hover, a:focus {
+		@apply text-sky;
+	}
+	
+	.fes-stylized {
+		@apply rounded-tl-[25px];
+		@apply xs:rounded-tl-[50px];
+		@apply md:rounded-tl-[75px];
+		@apply rounded-br-[25px];
+		@apply xs:rounded-br-[50px];
+		@apply md:rounded-br-[75px];
+		@apply border-r-4;
+		@apply md:border-r-8;
+		@apply border-b-4;
+		@apply md:border-b-8;
+		@apply border-black;
+	}
+	
+	figcaption {
+		@apply font-bold;
+		@apply uppercase;
+		@apply tracking-wider;
+		@apply text-sm;
 	}
 }

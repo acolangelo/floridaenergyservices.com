@@ -3,6 +3,11 @@ module.exports = {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
     extend: {
+      screens: {
+        'onlysmall': {'max': '767px'},
+        '2xs': '300px',
+        'xs': '400px',
+      },
       fontFamily: {
         'sans': ["aileron", "Helvetica Neue", "Arial", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"],
         'serif': ["Georgia"],
@@ -19,14 +24,20 @@ module.exports = {
       },
       colors: {
         transparent: 'transparent',
+        inherit: 'inherit',
         current: 'currentColor',
         'white': '#FFFFFF',
         'black': '#000000',
         'gray': '#444',
+        'lightgray': '#CCC',
         'lightestgray': '#F2F2F2',
-        'orange': '#CC8921',
-        'blue': '#2C69BE',
+        'yellow': '#FFC801',
+        'sky': '#1275B3',
+        'blue': '#053E61',
       },
+      backgroundImage: {
+        'menu': "url('/img/menu.svg')",
+      }
     },
   },
   plugins: [],
