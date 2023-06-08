@@ -16,11 +16,11 @@ export const navItems = readable([
 	{
 		url:"/about",
 		title: "About"
-	}/*,
+	},
 	{
 		url:"/contact",
 		title: "Contact"
-	}*/
+	}
 ], function start(set) {
 
 	return function stop() {
