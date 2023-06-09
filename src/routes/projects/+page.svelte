@@ -28,12 +28,14 @@
 			<li class="mb-2">The Quarry</li>
 			<li class="mb-2">Bahama Rock Quarry in Freeport Bahamas</li>
 			<li class="mb-2">Collier County Sports Complex and Event Center</li>
-			<li class="mb-2">Timber Creek of</li>
+			<li class="mb-2">Timber Creek</li>
 			<li class="mb-2">Magnolia Landing</li>
 			<li class="mb-2">The Brooks</li>
 			<li class="mb-2">Gateway</li>
 			<li class="mb-2">Bella Terra</li>
 			<li class="mb-2">Stoneybrook</li>
+			<li class="mb-2">Miramar Lakes</li>
+			<li class="mb-2">Isles of Collier Preserve</li>
 		</ul>
 	</article>
 </section>
