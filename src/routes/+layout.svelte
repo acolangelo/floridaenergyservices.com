@@ -19,7 +19,7 @@
 		<ul class="p-4 text-center sm:flex sm:gap-6 sm:p-0 md:pb-6">
 			{#each $navItems as navItem}
 			{@const navItemClass = $page.url.pathname == navItem.url ? 'border-t-yellow hover:border-t-yellow' : ''}
-			<li class="mb-12 sm:mb-0"><a href={navItem.url} class="no-underline border-y-4 border-transparent hover:border-t-lightgray hover:text-black py-1 {navItemClass}">{navItem.title}</a></li>
+			<li class="mb-12 sm:mb-0"><a href={navItem.url} data-sveltekit-reload class="no-underline border-y-4 border-transparent hover:border-t-lightgray hover:text-black py-1 {navItemClass}">{navItem.title}</a></li>
 			{/each}
 		</ul>
 	</nav>
