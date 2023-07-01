@@ -5,7 +5,7 @@
 <section class="mb-8 p-4 md:p-8">
 	<article class="max-w-7xl mx-auto lg:flex lg:justify-between">
 		<figure class="mb-4 md:mb-8 lg:order-2 lg:w-7/12 lg:pl-8">
-			<video src="/video/everglades-restoration-project-worksite.mp4" class="w-full fes-stylized" autoplay muted controls loop></video>
+			<video src="/video/everglades-restoration-project-worksite.mp4" class="w-full fes-stylized" autoplay playsinline muted controls loop></video>
 		</figure>
 		<div class="lg:w-2/5 lg:pr-8 md:text-md lg:text-base xl:text-md">
 			<h1 class="lg:text-2xl xl:text-3xl">No project is too big, small, or difficult.</h1>
