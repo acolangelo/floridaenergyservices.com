@@ -22,21 +22,19 @@
 		<h1 class="mb-8 lg:text-2xl xl:text-3xl">Locations</h1>
 		<div class="md:text-md lg:text-md xs:flex">
 			<address class="w-1/2 lg:w-1/3 mb-16 not-italic whitespace-pre">
-<strong>Crystal River Office</strong>
+<strong>Lecanto Office</strong>
 
-521 SE Ft. Island Road
-Suite B
-Crystal River FL, 34429
+1940 North Prospect Ave
+Lecanto, FL 34461
 
 <small class="block mt-2 font-bold tracking-widest uppercase text-sm">Phone </small><a href="tel:+13527959007" class="no-underline text-yellow hover:text-yellow hover:underline">352.795.9007</a>
-<small class="block mt-2 font-bold tracking-widest uppercase text-sm">Fax </small><a href="tel:+13527956360" class="no-underline text-yellow hover:text-yellow hover:underline">352.795.6360</a>
 			</address>
 			<address class="w-1/2 lg:w-1/3 not-italic whitespace-pre">
 <strong>Estero Office</strong>
 
 19970 South Tamiami Trail
 Suite 101
-Estero, Fl 33928
+Estero, FL 33928
 
 <small class="block mt-2 font-bold tracking-widest uppercase text-sm">Phone </small><a href="tel:+12393195713" class="no-underline text-yellow hover:text-yellow hover:underline">239.319.5713</a>
 			</address>
