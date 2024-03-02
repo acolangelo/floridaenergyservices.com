@@ -27,6 +27,7 @@
 1940 North Prospect Ave
 Lecanto, FL 34461
 
+
 <small class="block mt-2 font-bold tracking-widest uppercase text-sm">Phone </small><a href="tel:+13527959007" class="no-underline text-yellow hover:text-yellow hover:underline">352.795.9007</a>
 			</address>
 			<address class="w-1/2 lg:w-1/3 not-italic whitespace-pre">
